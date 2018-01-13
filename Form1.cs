@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Created By Kevin Chow and Sally Yu
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,8 +26,9 @@ namespace Username_Generator
             string line;
 
             //Reading the file with stream reader
-            System.IO.StreamReader nountxt = new System.IO.StreamReader(@"C:\Users\mmmbe\source\repos\Username Generator\Username Generator\nouns.txt");
-            System.IO.StreamReader adjtxt = new System.IO.StreamReader(@"C:\Users\mmmbe\source\repos\Username Generator\Username Generator\adjs.txt");
+            string dir = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
+            System.IO.StreamReader nountxt = new System.IO.StreamReader(dir + @"\txt\nouns.txt");
+            System.IO.StreamReader adjtxt = new System.IO.StreamReader(dir + @"\txt\adjs.txt"); 
             //adding to a list
             List<string> nounList = new List<string>();
             List<string> adjList = new List<string>();

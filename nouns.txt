@@ -1,5 +1,0 @@
-cat
-dog
-mouse
-rat
-horse

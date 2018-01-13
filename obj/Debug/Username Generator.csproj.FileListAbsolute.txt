@@ -8,3 +8,13 @@ C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\User
 C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
 C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.exe
 C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.pdb
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\bin\Debug\Username Generator.exe.config
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\bin\Debug\Username Generator.exe
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\bin\Debug\Username Generator.pdb
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.csprojResolveAssemblyReference.cache
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username_Generator.Form1.resources
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username_Generator.Properties.Resources.resources
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.csproj.GenerateResource.Cache
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.exe
+C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.pdb
