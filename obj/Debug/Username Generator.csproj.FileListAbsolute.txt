@@ -1,0 +1,10 @@
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\bin\Debug\Username Generator.exe.config
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\bin\Debug\Username Generator.exe
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\bin\Debug\Username Generator.pdb
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.csprojResolveAssemblyReference.cache
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username_Generator.Form1.resources
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username_Generator.Properties.Resources.resources
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.csproj.GenerateResource.Cache
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.exe
+C:\Users\mmmbe\source\repos\Username Generator\Username Generator\obj\Debug\Username Generator.pdb
