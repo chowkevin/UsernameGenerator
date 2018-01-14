@@ -18,3 +18,13 @@ C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.c
 C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
 C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.exe
 C:\Users\mmmbe\Documents\GitHub\UsernameGenerator\obj\Debug\Username Generator.pdb
+C:\Users\maggi\source\repos\UsernameGenerator\bin\Debug\Username Generator.exe.config
+C:\Users\maggi\source\repos\UsernameGenerator\bin\Debug\Username Generator.exe
+C:\Users\maggi\source\repos\UsernameGenerator\bin\Debug\Username Generator.pdb
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.csprojResolveAssemblyReference.cache
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username_Generator.Form1.resources
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username_Generator.Properties.Resources.resources
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.csproj.GenerateResource.Cache
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.exe
+C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.pdb
