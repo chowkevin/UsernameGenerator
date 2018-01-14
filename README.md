@@ -1,3 +1,7 @@
 # Username Generator
-Fun project with <a href="https://github.com/salleeyu">Sally</a> to practice coding. Came up with idea of a username generator. <br><br>
+Having trouble coming up with a username? Use this program to help you generate a random username that'll probably make you go WTF!<br>
+
+Thank you and enjoy!<br>
+
+Created by <a href="https://github.com/chowkevin">Kevin Chow</a> and <a href="https://github.com/salleeyu">Sally Yu</a> on Jan 14, 2018.<br><br>
 <a href="https://drive.google.com/open?id=1bSJkqtkb5AOL78wuRAVvRXA8SejfYijz">Download</a>
