@@ -4552,3 +4552,8 @@ zoologist
 zoology
 zoot-suit
 zucchini
+lucio
+zenyatta
+genji
+hanzo
+ana
