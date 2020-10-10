@@ -73,7 +73,7 @@ namespace Username_Generator
             int randomNumAdjs = rnd.Next(0, totalAdjs);   // creates a number between 0 and total number of adjectives
 
             string username = FirstCharToUpper(adjArr[randomNumAdjs]) + FirstCharToUpper(nounArr[randomNumNoun]);
-            textBox1.Text = username;
+            textBox_username.Text = username;
             //MessageBox.Show(FirstCharToUpper(adjArr[randomNumAdjs]) + FirstCharToUpper(nounArr[randomNumNoun]));
 
             //MessageBox.Show(totalNouns + " " + totalAdjs);
@@ -82,7 +82,19 @@ namespace Username_Generator
         private void button2_Click(object sender, EventArgs e)
         {
             string description = "Username Generator is a mini project created by Kevin Chow and Sally Yu. This project was created to assist those who have trouble coming up with usernames.";
-            MessageBox.Show(description + Environment.NewLine + Environment.NewLine + "Thank you and enjoy!" + Environment.NewLine + Environment.NewLine + "Created on January 14, 2018.");
+            MessageBox.Show(description + Environment.NewLine + Environment.NewLine + "Thank you and enjoy!" + Environment.NewLine + Environment.NewLine + "Created on January 14, 2018.", "About this project");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        { 
+            textBox_username.BackColor = textBox_username.BackColor;
+            textBox_username.ForeColor = textBox_username.ForeColor;
+            textBox_username.ReadOnly = true;
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Clipboard.SetText(textBox_username.Text);
         }
     }
 }

@@ -28,3 +28,13 @@ C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.cspro
 C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
 C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.exe
 C:\Users\maggi\source\repos\UsernameGenerator\obj\Debug\Username Generator.pdb
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\bin\Debug\Username Generator.exe.config
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\bin\Debug\Username Generator.exe
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\bin\Debug\Username Generator.pdb
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username Generator.csprojAssemblyReference.cache
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username_Generator.Form1.resources
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username_Generator.Properties.Resources.resources
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username Generator.csproj.GenerateResource.cache
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username Generator.exe
+C:\Users\Paolo\Documents\Progetti\Hacktoberfest 2020\UsernameGenerator\obj\Debug\Username Generator.pdb
