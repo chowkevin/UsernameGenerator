@@ -80,10 +80,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="usernmae.png" />
+    <None Include="img\username.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="img\username.png" />
+    <None Include="img\copy.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
