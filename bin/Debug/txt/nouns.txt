@@ -4720,3 +4720,21 @@ Winston
 Wrecking Ball
 Zarya
 Zenyatta
+Astra
+Breach
+Brimstone
+Chamber
+Cypher
+Jett
+Kay/O
+Killjoy
+Neon
+Omen
+Phoenix
+Raze
+Reyna
+Sage
+Skye
+Sova
+Viper
+Yoru
